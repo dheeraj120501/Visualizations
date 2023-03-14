@@ -4,8 +4,19 @@ This repo contains the visualizations of some algorithms, physics and stuffs i l
 
 # Table of contents
 
-| S/No. | Name                                               |
-| ----- | -------------------------------------------------- |
-| 1.    | [Solar System Simulation](./Solar%20System/)       |
-| 2.    | [A\* Path Visualization](./A%20star/)              |
-| 3.    | [Djikstra's Shortest Path Finding Visualization]() |
+| S/No. | Name                                                          |
+| ----- | ------------------------------------------------------------- |
+| 1.    | [Solar System Simulation](./Solar%20System/)                  |
+| 2.    | [A\* Path Visualization](./A%20star/)                         |
+| 3.    | [Djikstra's Shortest Path Finding Visualization]()            |
+| 4.    | [Fractals]()                                                  |
+| 5.    | [Random Number Generation]()                                  |
+| 6.    | [Boid Algorithm]()                                            |
+| 7.    | [Fourier Transform]()                                         |
+| 8.    | [Locating Points on Sphere and Satellite Navigation System]() |
+| 9.    | [Chaos Theory & Logistic Map ]()                              |
+| 10.   | [OODA Loop]()                                                 |
+| 11.   | [Data Compression]()                                          |
+| 12.   | [Game of Life]()                                              |
+| 13.   | [Maze World]()                                                |
+| 14.   | [Random Walk]()                                               |
